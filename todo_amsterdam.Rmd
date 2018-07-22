@@ -1,0 +1,63 @@
+---
+title: "PhD at University of Amsterdam"
+author: "Fabio Votta"
+date: "19.7.2018"
+output: pdf_document
+---
+
+## PhD Application
+
+The deadline for the applications is 7 September 2018. Interviews will be held on 2 October 2018.
+
+Applications must contain:
+
++ a motivation letter;
++ a full CV including publication list;
++ proof of your Master degree;
++ an academic writing sample in English (e.g. essay or Master thesis);
++ two names of referees who may be contacted for a letter of reference.
+
+
+## Political Science Research
+
++ *Challenges to Democratic Representation* / Programme directors: Wouter van der Brug and 
+Eric Schliesser
+
+What are the necessary and sufficient conditions under which democratic regimes can
+maintain stability and safeguard basic principles of democratic accountability,
+representation and legitimacy? This research programme addresses this classic theme from
+the perspective of normative democratic theory and by way of empirical inquiry.
+Recognising that democracy is also a historically contingent politically practice, issues of
+change over time form an integral part of its analytic approach.
+www.aissr.uva.nl/democraticrepresentation
+  
++ *Political Economy and Transnational Governance (PETGOV)* / Programme directors:
+Jonathan Zeitlin and Geoffrey Underhill
+
+The Political Economy and Transnational Governance (PETGOV) programme group
+explores the ongoing transformation of political and economic governance within and
+beyond nation-states.  That exploration involves deciphering how politics affects and is
+affected by economics, and of how both political and economic governance spans local,
+national, and supranational levels of political conflict and experimentation.
+www.aissr.uva.nl/petgov
+  
++ *Transnational Configurations, Conflict and Governance* / Programme directors: Marieke de 
+Goede and John Grin 
+
+In recent decades, there has been a growing divergence between the organisation of 
+society and the inherited conceptual framework of the 20th century political sciences. The group seeks to re-examine established notions of identities, categorizations and boundaries defined by classical political science concepts through different forms of empirical investigation. www.aissr.uva.nl/transnationalconfigurations
+  
++ *The Amsterdam Centre for Conflict Studies (ACCS)* / Directors: David Laws and Anne de
+Jong
+
+ACCS provides a forum for exchange between academics conducting research on conflict 
+and practitioners engaged in conflict resolution. The Centre brings together two strands of
+conflict research: research on local, organizational, policy, and other conflicts in developed
+democracies and research on collective violence, civil war, and massive human rights
+violations. www.conflictstudies.uva.nl
+ 
+1. Social movements and social justice
+2.  Political violence
+3. Development and Policy Making
+Marenne Jansen
+4. Migration and Security

@@ -1,0 +1,112 @@
+---
+title: "PhD at Princeton University"
+author: "Fabio Votta"
+date: "19.7.2018"
+output: pdf_document
+---
+
+## Application
+
+### 0. Deadlines and Fees
+
+Princeton admits students to the program once each year for enrollment in **September**. Students apply for admission and financial aid by **December 15th**.  This deadline is for the receipt of applications and all supporting materials. Decisions are typically announced no later than early March, and each admitted student has until April 15 to respond. 
+
+All applicants must submit a $90 application fee or apply for an application fee waiver.
+
+
+
+### 1. Statement of Academic Purpose
+
+Applicants will be required to upload a statement of academic purpose with the admission application in the space provided. Please write a statement of current academic and future career plans as they relate to the Princeton department to which the applicant is applying. In doing so, please cite relevant academic, professional and personal experiences that influenced the decision to apply for graduate admission and to obtain a graduate degree. **The statement should not exceed 1,000 words** and must be written in English.
+
+Please be sure to review the final statement before uploading it and submitting the admission application. If an applicant submitted an application and needs to revise the statement of academic purpose, the applicant may upload the corrected version through the checklist if it is before the deadline. After the deadline, no revised statement of academic purpose will be accepted.
+
+### 2. Resume/Curriculum Vitae
+
+Applicants will be required to upload a resume or curriculum vitae with the admission application in the space provided. Resumes or curricula vitae should include employment, activities, community service, education, and academic or professional honors.
+
+### 3. Recommendation Letters
+
+In order to apply for admission to the Graduate School, an applicant must supply **three electronic letters of recommendation**. The letters must be written in English and come from faculty members or other individuals well acquainted with the applicant's academic work.
+
+The letters of recommendation must be submitted using our electronic recommendation service as part of the admission application. The applicant will be required to register the recommenders' email addresses within the application. Recommenders will then receive an email with directions on how to proceed. We suggest registering recommenders as early as possible to allow sufficient time for them to submit their letters of recommendation. An application does not need to be submitted in order to register recommenders. Please do not wait to submit an application because of pending letters.
+
+If a recommender uses a letter service (e.g., Interfolio (http://product-help.interfolio.com/m/27438/l/266289-confidential-letter-uploads-to-online-application-systems)) the applicant will need to provide the recommender's unique "document email address" in the application. The Graduate Admission team suggests that the applicant confirms with the letter service that the requested letters were submitted.
+
+### 4. Transcripts
+
+Applicants must upload a transcript including the key from all attended colleges or universities. An unofficial transcript must show the name of the student, name of the issuing institution, name of courses taken, and the grades received in those courses. Applicants with transcripts in languages other than English will need to upload an English translation along with such transcripts. Sealed copies of transcripts need to be opened, scanned, and uploaded. Transcripts should be scanned in black and white at a maximum resolution of 300dpi and no larger than 10MB. Screenshots from student portals will not be accepted as an unofficial transcript.
+
+### 5. TOEFL
+
+Graduate students must demonstrate a level of oral proficiency in the English language sufficient to participate successfully in all the various activities that comprise a graduate education, including classwork, research, research presentations, group meetings, project teamwork, and the teaching of undergraduates. 
+
+TOEFL Account:
+
+Rashnutin
+
+Start Time:   10:00 AM			
+Saturday, September 29, 2018			
+STUTTGART, BW, Germany
+
+### 6. GRE (Graduate Record Examination)
+
+Applicants are required to submit valid General Test scores from Educational Testing Service (ETS). GRE scores are valid for five years. For questions about the validity of GRE scores, please contact ETS. If ETS is able to send valid scores, we will accept them. The University will not accept expired, self-reported, copies of, or partial test scores. A student who chooses to respond to only one section of the test per sitting is testing under different circumstances than those who took all three sections of the test on one test date. Refer to the Fields of Study for specific department requirements to determine if a subject test is required. The Graduate School does not have a minimum score requirement, each department may set its own.
+
+GRE Account:
+
+favstats
+
+Test Center: Frankfurt
+Date: Pretty much every day
+Costs: 205$
+
+### 7. Writing Sample
+
+Politics: Sample of written work, 25 page maximum
+
+## Important People
+
+**Christopher Achen**
+
+Title: Roger Williams Straus Professor of Social Sciences, Professor of Politics.
+Area(s):
+American Politics
+Formal Theory and Quantitative Methods
+Field: Political Methodology, EITM, Public Opinion and Voting, Empirical Democratic Theory 
+
+Chris Achen is a professor in the Politics Department at Princeton University, where he holds the Roger Williams Straus Chair of Social Sciences. His primary research interests are public opinion, elections, and the realities of democratic politics, along with the statistical challenges that arise from those fields. He is the author, coauthor, or co-editor of six books, including Democracy for Realists (with Larry Bartels), published by Princeton University Press in 2016, and The Taiwan Voter (with T.Y. Wang), published by the University of Michigan Press in 2017. He has also published many articles.
+
+He is a member of the American Academy of Arts and Sciences since 1995, and has received fellowships from the Center for Advanced Study in the Behavioral Sciences, the National Science Foundation, and Princeton's Center for the Study of Democratic Politics. He was the founding president of the Political Methodology Society, and he received the first career achievement award from The Political Methodology Section of The American Political Science Association in 2007. He has served on the top social science board at the National Science Foundation, and he was the chair of the national Council for the Inter-University Consortium for Political and Social Research (ICPSR) from 2013-2015. He is also the recipient of an award from the University of Michigan for lifetime achievement in training graduate students and a student-initiated award from Princeton University for graduate student mentoring.
+ 
+**Naoki Egami**
+
+Area(s):
+Formal Theory and Quantitative Methods
+
+I am a Ph.D. student in the Department of Politics at Princeton University, where I receive the Kenneth W. Gemmill Prize fellowship in Politics and the graduate fellowship of the Program for Quantitative and Analytical Political Science (Q-APS). I obtained a B.A. in Liberal Arts from the University of Tokyo in 2015. I also studied at University of Michigan, Ann Arbor, as a visiting student in 2013.   
+
+I am broadly interested in political methodology and comparative political behavior. Methodological interest includes causal inference, machine learning, experimental design and social network analysis. My research has focused on causal interaction and positive empirical models of election fraud.
+
+**Kosuke Imai**
+Title: Professor of Politics. Director, Program in Statistics and Machine Learning.
+Area(s):
+Formal Theory and Quantitative Methods
+Field: Quantitative Methodology 
+
+Kosuke Imai is Professor in the Department of Politics at Princeton University and the founding director of the Undergraduate Certificate Program in Statistics and Machine Learning. He is also an executive member of the Committee for Statistical Studies and the Program for Quantitative and Analytical Political Science (Q-APS). After obtaining a B.A. in Liberal Arts from the University of Tokyo (1998), Imai received an A.M. in Statistics (2002) and a Ph.D. in political science (2003) from Harvard University. Imai's research area is political methodology and more generally applied statistics in the social sciences. He has extensively worked on the development and applications of statistical methods for causal inference with experimental and observational data. Other areas of his methodological research are survey methodology and computational algorithms for data-intensive social science research. His substantive applications range from the randomized evaluation of Mexican universal health insurance program to the study of public opinion and insurgent violence in Afghanistan. Imai has published more than forty peer-refereed journal articles in political science, statistics, economics, and psychology and authored over ten open-source software packages. He has won several awards including the Miyake Award (2006), the Warren Miller Prize (2008), the Pi Sigma Alpha Award (2013), the Stanley Kelley, Jr. Teaching Award (2013), and is the inaugural recipient of Society of Political Methodology's Emerging Scholar Award (2011). Imai's research has been supported by several National Science Foundation grants as well as grants from other agencies.
+
+
+**Saurabh Pant**
+
+Area(s):
+Formal Theory and Quantitative Methods
+Field: PE/FQ 
+
+Saurabh Pant is a Ph.D. candidate in Princeton's Politics department. His research interests lie at the intersection of international relations and comparative politics. He studies the political economy of conflict and militancy in divided societies and has regional interests in South Asia and the Middle East. He is a Princeton Politics Quantitative and Analytical Political Science Fellow. He received his BA in Mathematics and Economics from New York University and his MPA in Public and Economic Policy from the London School of Economics.
+
+**Yuki Shiraito**
+Area(s):
+Formal Theory and Quantitative Methods
+
+Yuki Shiraito's work is centered on the development and application of parametric and nonparametric Bayesian methods. His recent paper proposes a nonparametric Bayesian approach to estimating heterogeneous treatment effects. He is also working on the development of a joint text-citation model of legal rulings and a topic model of legislative bills containing texts copied from other bills, in order to elucidate the diffusion of precedents and policy ideas in different settings. His other work uses a Bayesian item response theory model to measure support for Taliban in Afghanistan. He has co-taught the Politics Math Camp twice and has served as a preceptor for two graduate courses, Quantitative Analysis III and Formal Political Analysis I, as well as undergraduate courses.  His website is: www.princeton.edu/~shiraito/

@@ -1,0 +1,113 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2015 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{classic}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
+\moderncvcolor{blue}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\DeclareUnicodeCharacter{FB01}{fi}
+\DeclareUnicodeCharacter{FB00}{fi}
+                    % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[top=2cm,scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Fabio}{Votta}
+\title{Curriculum Vitae}                               % optional, remove / comment the line if not wanted
+\address{Giengenerstraße 18}{89522 Heidenheim an der Brenz}{}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
+\phone[mobile]{+49~1742021316}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
+\email{fabio.votta@gmail.com}                               % optional, remove / comment the line if not wanted
+\homepage{www.favstats.eu}
+
+% bibliography adjustements (only useful if you make citations in your resume, or print a list of publications using BibTeX)
+%   to show numerical labels in the bibliography (default is to show no labels)
+\makeatletter\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}\makeatother
+%   to redefine the bibliography heading string ("Publications")
+%\renewcommand{\refname}{Articles}
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+%\makecvheader
+%\begin{picture}(0,0)
+%\put(460,50){\includegraphics[width=5em]{18361759_1740434565971851_637241368_n.jpg}}
+%\end{picture}
+\makecvtitle 
+.\\[-4em]
+
+\section{Education}
+\cventry{2003--2012}{Abitur (\textit{2,4})}{}{Hellenstein-Gymnasium}{Heidenheim an der Brenz}{}  % arguments 3 to 6 can be left empty
+\cventry{2013--2017}{Social Science, Bachelor of Arts (\textit{1,6})}{University of Stuttgart}{}{}{}
+\cventry{2015--2016}{Government Major, Exchange Student}{California State University}{Sacramento}{}{}
+\cventry{2017--Present}{Empirical Political and Social Science Research, Master of Arts}{University of Stuttgart}{}{}{}
+
+\section{Bachelor Thesis}
+\cvitem{Title}{\emph{Religious Governance: A cross-national examination of religious politics in Arab-Muslim Majority countries}}
+\cvitem{Supervisors}{Prof. Dr. Andre Baechtiger and Prof. Dr. Patrick Bernhagen}
+\cvitem{Description}{The bachelor thesis seeks to investigate Muslim support for religious governance in Arab Muslim-Majority countries with the help of Arab Barometer data.} 
+
+\section{Practical Experiences}
+\cventry{Summer 2014}{Research Intern}{IPI Market Research}{Stuttgart}{}{Tasks: Creating, supervising and evaluating surveys.\newline{}}%
+\cventry{2013--2015}{Multiplicator}{State Bureau for Civic Eduation Baden-Württemberg}{}{}{Tasks: Enhance methodology for measuring youth participation. Preparing seminars and giving talks at schools and events with the purpose of civic education.\newline{}}%
+\cventry{2016}{Research Intern}{Project for an Informed Electorate}{Sacramento,CA}{}{Tasks: Preparing and helping with events. Evaluation and visualization of survey data.\newline{}}%
+\cventry{2016--2018}{Student Ambassador}{German-American Center}{}{}{Tasks: Counseling young students who are interested internships or a study abroad experience in the USA.\newline{}}%
+\cventry{2017--2018}{Tutor For Statistics}{University of Stuttgart}{}{}{Tasks: Helping graduate students to complete their weekly exams (in SPSS and R).\newline{}}%
+\cventry{2017--Present}{Research Assistant for the Pro-Truth Pledge Project}{}{}{}{Analyzing data and creating web applications that help facilitate decisions.\newline{}}%
+\newpage
+
+\section{Additional Experiences}
+\cventry{Summer 2013}{Backpacking trip in the Middle East}{Including Egypt, Israel and Jordan}{}{}{3 Months of traveling ignited my interest of Middle Eastern culture and society.\newline{}}%
+\cventry{Winter 2018}{ECPR Winter School 2018}{}{}{}{Attending two courses: Webscraping with R and Introduction to Quantitative Text Analysis.\newline{}}%
+\cventry{2017--Present}{Board Member of Non-Profit Organization}{Funding Organization for Political and Social Sciences (FÖPS e.V.)}{}{}{Tasks: Organizing finances and fundings dedicated to students.\newline{}}%
+\cventry{2016--Present}{R User Group Stuttgart Admin}{}{}{}{Preparing and organizing talks.\newline{}}%
+
+\section{Upcoming}
+\cventry{May 2018}{Combating Online Extremism Workshop}{VOX-Pol Network of Excellence}{}{}{Presenting a paper on a machine learning algorithm trained on over 15 million "Alt-Right" comments and tweets on social media.\newline{}}%
+\cventry{June 2018}{WAPOR 71st Annual Conference}{World Association for Public Opinion Research}{}{}{Presenting two papers, one about religious politics in the Middle East and another one on deliberation accross the world.\newline{}}%
+\cventry{Forthcoming 2018}{Promoting Truth in Public Discourse: The Pro-Truth Pledge}{Journal of Social and Political Psychology}{}{}{Empirical Evaluation of the Pro-Truth Pledge and its impact on individuals to commit to truth-oriented behaviors.\newline{}}%
+
+
+
+
+\section{Languages}
+\cvitemwithcomment{German}{Fluent}{German upbringing}
+\cvitemwithcomment{Italian}{Fluent}{Native language}
+\cvitemwithcomment{English}{Fluent}{}
+\cvitemwithcomment{Spanish}{Conversational}{}
+\cvitemwithcomment{French}{Conversational}{}
+\cvitemwithcomment{Arabic}{Beginner}{}
+
+
+\section{Computer skills}
+\cvitemwithcomment{MS Office}{Proficient}{}
+\cvitemwithcomment{SPSS}{Proficient since 2014}{}
+\cvitemwithcomment{R Statistics}{Proficient since 2015}{}
+\cvitemwithcomment{Latex}{Proficient since 2016}{}
+%\cvitemwithcomment{ShinyApps}{Proficient since 2017}{}
+\cvitemwithcomment{Python}{Beginner}{}
+\end{document}
+
+
+%% end of file `template.tex'.
